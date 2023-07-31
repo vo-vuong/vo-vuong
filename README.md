@@ -1,6 +1,6 @@
 ### Welcome to my github 👋
 
-I'm Vuong Vo. I am a web developer very interested in new AI technologies. I am redirecting my goal from web developer to Deep Learning and Computer Vision engineer<br>
+I'm Vuong Vo, a web developer very interested in new AI technologies. I am redirecting my career goal from web development to becoming a Deep Learning and Computer Vision engineer.<br>
 
 ## 📫 How to reach me:
 
