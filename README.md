@@ -2,10 +2,7 @@
 
 I'm Vuong Vo, an AI Engineer passionate about building practical AI systems, with a strong interest in NLP, CV, and real-world applications.<br>
 
-## 📫 How to reach me:
-
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vuong-vo-lk/)
-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vo-vuong/)
+## 🚀 Featured Projects
 
 <a href="https://github.com/vo-vuong/rag_chatbot/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vo-vuong&repo=rag_chatbot&theme=dark" />
