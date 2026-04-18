@@ -4,12 +4,12 @@ I'm Vuong Vo, an AI Engineer passionate about building practical AI systems, wit
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/vo-vuong/rag_chatbot/">
+<!-- <a href="https://github.com/vo-vuong/rag_chatbot/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vo-vuong&repo=rag_chatbot&theme=dark" />
-</a>
-<a href="https://github.com/vo-vuong/Emotion_Detection/">
+</a> -->
+<!-- <a href="https://github.com/vo-vuong/Emotion_Detection/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vo-vuong&repo=Emotion_Detection&theme=tokyonight" />
-</a>
+</a> -->
 
 <a href="https://github.com/vo-vuong/Playing_Cards_Detection-Yolo/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vo-vuong&repo=Playing_Cards_Detection-Yolo&theme=gruvbox" />
